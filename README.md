@@ -7,9 +7,11 @@
 
 ## Featured Projects
 
-- [Click Counter](https://github.com/Frontgrammer98/Click-Counter): 👆 Explore a fun Click Counter built with React, Vite, and TypeScript. Witness the magic of React, the speed of Vite, and the type safety of TypeScript in a playful way. Just click the button and watch the counter rise—an ideal playground for hands-on experience with these technologies. 🚀
+- [Click Counter](https://github.com/Frontgrammer98/Click-Counter):
+- 👆 Explore a fun Click Counter built with React, Vite, and TypeScript. Witness the magic of React, the speed of Vite, and the type safety of TypeScript in a playful way. Just click the button and watch the counter rise—an ideal playground for hands-on experience with these technologies. 🚀
 
-- [IPhone Calculator Clone](https://github.com/Frontgrammer98/IPhone-Calculator-Clone):📱 A precise replica of the iPhone calculator app, meticulously crafted using HTML, CSS, and JavaScript. Experience the familiar design and seamless functionality of the iPhone calculator right in your browser. Perfect for those who appreciate simplicity and elegance in their digital tools.🚀
+- [IPhone Calculator Clone](https://github.com/Frontgrammer98/IPhone-Calculator-Clone):
+- 📱 A precise replica of the iPhone calculator app, meticulously crafted using HTML, CSS, and JavaScript. Experience the familiar design and seamless functionality of the iPhone calculator right in your browser. Perfect for those who appreciate simplicity and elegance in their digital tools.🚀
 
 # Welcome to my learning repository! 🚀
 
