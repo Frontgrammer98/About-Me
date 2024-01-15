@@ -7,19 +7,35 @@
 
 ## Featured Projects
 
-- [Project 1](link-to-project-1): Brief description of the project.
+- [Click Counter](https://github.com/Frontgrammer98/Click-Counter): 👆 Explore a fun Click Counter built with React, Vite, and TypeScript. Witness the magic of React, the speed of Vite, and the type safety of TypeScript in a playful way. Just click the button and watch the counter rise—an ideal playground for hands-on experience with these technologies. 🚀
 
-- [Project 2](link-to-project-2): Brief description of the project.
+- [IPhone Calculator Clone](https://github.com/Frontgrammer98/IPhone-Calculator-Clone):📱 A precise replica of the iPhone calculator app, meticulously crafted using HTML, CSS, and JavaScript. Experience the familiar design and seamless functionality of the iPhone calculator right in your browser. Perfect for those who appreciate simplicity and elegance in their digital tools.🚀
 
-## Continuous Learning
+# Welcome to my learning repository! 🚀
 
-I am constantly improving my skills and exploring new technologie
+## About
+
+This repository serves as my personal learning space, where I experiment with new technologies, coding practices, and projects. It's a dynamic record of my progress and a place to showcase what I've been working on.
+
+## What to Expect
+
+- **Projects:** Browse through various projects that demonstrate my skills and learning journey.
+- **Tech Stack:** Explore the diverse range of technologies and tools I've been experimenting with.
+- **Learning Logs:** Find reflections and insights gained during the learning process.
+
+Feel free to explore, provide feedback, or even collaborate on exciting projects! Let's grow and learn together. 🌱
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
+## Contact
+
+![RE Developer](./Screenshots/relogo.png)
+
+[Ricardo Estrada]
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Frontgrammer98/Frontgrammer98)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-estrada-b433b71a7/)
 
 
 
