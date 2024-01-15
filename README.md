@@ -29,7 +29,7 @@ Feel free to explore, provide feedback, or even collaborate on exciting projects
 
 ## Contact
 
-![RE Developer](./Screenshots/relogo.png)
+![RE Developer]()
 
 [Ricardo Estrada]
 
