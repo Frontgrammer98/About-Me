@@ -40,31 +40,38 @@
   </a>
 </p>
 
-# Welcome to my learning repository! 🚀
+# Welcome to My Professional Portfolio! 🚀
 
-## Featured Projects
+## About Me
 
-- [Click Counter](https://github.com/Frontgrammer98/Click-Counter):
-  
-👆 Explore a fun Click Counter built with React, Vite, and TypeScript. Witness the magic of React, the speed of Vite, and the type safety of TypeScript in a playful way. Just click the button and watch the counter rise—an ideal playground for hands-on experience with these technologies. 🚀
+👨‍💻 I am a **Tier Three Support Engineer** at **WebMD** 🏥 and a **Fullstack Developer** at **Grupo Modelo** 🍺. I specialize in solving complex technical challenges, building scalable web applications, and leveraging modern technologies to create impactful digital solutions.
 
-- [IPhone Calculator Clone](https://github.com/Frontgrammer98/IPhone-Calculator-Clone):
- 
-📱 A precise replica of the iPhone calculator app, meticulously crafted using HTML, CSS, and JavaScript. Experience the familiar design and seamless functionality of the iPhone calculator right in your browser. Perfect for those who appreciate simplicity and elegance in their digital tools.🚀
+---
 
-## About
+## What I Do
 
-This repository serves as my personal learning space, where I experiment with new technologies, coding practices, and projects. It's a dynamic record of my progress and a place to showcase what I've been working on.
+### 🛠️ At WebMD:
+- 🛡️ **Diagnose and resolve** complex technical issues to ensure platform reliability and performance.
+- 🤝 Collaborate with **cross-functional teams** to address escalated challenges and deliver effective solutions.
+- 📊 Optimize **database operations** to maintain seamless user experiences.
 
-## What to Expect
+### 💻 At Grupo Modelo:
+- 🌐 Develop **dynamic frontend interfaces** using React and Tailwind CSS for seamless user interactions.
+- 🏗️ Build and maintain **scalable backend systems** with Python, Flask, and SQL.
+- 🚀 Integrate **business logic** with cutting-edge technologies to drive digital transformation.
 
-- **Projects:** Browse through various projects that demonstrate my skills and learning journey.
-- **Tech Stack:** Explore the diverse range of technologies and tools I've been experimenting with.
-- **Learning Logs:** Find reflections and insights gained during the learning process.
+---
 
-Feel free to explore, provide feedback, or even collaborate on exciting projects! Let's grow and learn together. 🌱
+## Technologies I Use
 
+- **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- **Backend:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+- **Database:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+- **Other Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+---
+
+🌟 I thrive on building reliable systems, solving complex challenges, and contributing to impactful projects. Feel free to connect with me to discuss opportunities or collaborate on exciting ventures!
 
 ## Contact
 
