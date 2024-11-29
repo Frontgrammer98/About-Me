@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo Estrada</h1>
-<h3 align="center">I'm a passionate Tier Three Support Engineer with skills in SQL,Javascript, Python, Flask and design skills in css and tailwind specially using React. I love building engaging and functional web experiences. Here's a bit more about me:</h3>
+<h3 align="center">I'm a Tier Three Support Engineer at WebMD and a Fullstack Developer at Grupo Modelo. With expertise in SQL, JavaScript, Python, Flask, and frontend design using CSS and Tailwind (especially with React), I thrive on creating engaging and functional web applications. My passion lies in solving complex problems and delivering impactful digital solutions. Here's a bit more about me:</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
