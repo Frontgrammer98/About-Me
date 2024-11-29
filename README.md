@@ -64,11 +64,10 @@
 
 ## Technologies I Use
 
-- **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-- **Backend:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-- **Database:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+- **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+- **Backend:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Dash](https://img.shields.io/badge/-Dash-00ADD8?style=flat-square&logo=plotly&logoColor=white)
+- **Database:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 - **Other Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
 ---
 
 🌟 I thrive on building reliable systems, solving complex challenges, and contributing to impactful projects. Feel free to connect with me to discuss opportunities or collaborate on exciting ventures!
